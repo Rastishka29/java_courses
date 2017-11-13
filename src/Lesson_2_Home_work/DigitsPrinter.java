@@ -1,4 +1,4 @@
-package rastishka;
+package Lesson_2_Home_work;
 
 public class DigitsPrinter {
     public static void main(String[] args) {

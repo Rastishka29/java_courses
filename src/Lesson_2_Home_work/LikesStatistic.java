@@ -1,4 +1,4 @@
-package rastishka;
+package Lesson_2_Home_work;
 
 public class LikesStatistic {
     public static void main(String[] args) {

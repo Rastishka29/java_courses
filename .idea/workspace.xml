@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="193bc5b2-36aa-46cb-9cbd-d121479e65ee" name="Default" comment="" />
+    <list default="true" id="193bc5b2-36aa-46cb-9cbd-d121479e65ee" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/rastishka/AverageCalculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/rastishka/BytesConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/rastishka/CelsiusToFahrenheitConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/rastishka/DigitsPrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/rastishka/LikesStatistic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/rastishka/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/rastishka/PersonInfo.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/rastishka/AverageCalculator.java" afterPath="$PROJECT_DIR$/src/Lesson_2_Home_work/AverageCalculator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/rastishka/BytesConverter.java" afterPath="$PROJECT_DIR$/src/Lesson_2_Home_work/BytesConverter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/rastishka/CelsiusToFahrenheitConverter.java" afterPath="$PROJECT_DIR$/src/Lesson_2_Home_work/CelsiusToFahrenheitConverter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/rastishka/DigitsPrinter.java" afterPath="$PROJECT_DIR$/src/Lesson_2_Home_work/DigitsPrinter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/rastishka/LikesStatistic.java" afterPath="$PROJECT_DIR$/src/Lesson_2_Home_work/LikesStatistic.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +38,7 @@
         </entry>
       </file>
       <file leaf-file-name="LikesStatistic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rastishka/LikesStatistic.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/LikesStatistic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="5" column="67" lean-forward="false" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
@@ -33,7 +48,7 @@
         </entry>
       </file>
       <file leaf-file-name="CelsiusToFahrenheitConverter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rastishka/CelsiusToFahrenheitConverter.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/CelsiusToFahrenheitConverter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="6" column="61" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
@@ -43,7 +58,7 @@
         </entry>
       </file>
       <file leaf-file-name="DigitsPrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rastishka/DigitsPrinter.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/DigitsPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
               <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
@@ -53,7 +68,7 @@
         </entry>
       </file>
       <file leaf-file-name="BytesConverter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rastishka/BytesConverter.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/BytesConverter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -62,11 +77,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AverageCalculator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/rastishka/AverageCalculator.java">
+      <file leaf-file-name="AverageCalculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/AverageCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleAboutMeApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3_Home_work/SimpleAboutMeApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DifferentRadixSummator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3_Home_work/DifferentRadixSummator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NameSubstitutor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3_Home_work/NameSubstitutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="90" lean-forward="false" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionCalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3_Home_work/FunctionCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -74,8 +129,15 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Java_courses" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -89,6 +151,10 @@
         <option value="$PROJECT_DIR$/src/rastishka/CelsiusToFahrenheitConverter.java" />
         <option value="$PROJECT_DIR$/src/rastishka/LikesStatistic.java" />
         <option value="$PROJECT_DIR$/src/rastishka/AverageCalculator.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3_Home_work/SimpleAboutMeApp.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3_Home_work/DifferentRadixSummator.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3_Home_work/NameSubstitutor.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3_Home_work/FunctionCalculator.java" />
       </list>
     </option>
   </component>
@@ -98,7 +164,9 @@
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -132,7 +200,13 @@
               <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rastishka" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_2_Home_work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_3_Home_work" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,6 +218,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -162,15 +237,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AverageCalculator">
+  <component name="RunManager" selected="Application.FunctionCalculator">
     <configuration name="AverageCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="rastishka.*" />
+          <option name="PATTERN" value="Lesson_2_Home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="rastishka.AverageCalculator" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_2_Home_work.AverageCalculator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -182,14 +257,14 @@
       <module name="Java_courses" />
       <envs />
     </configuration>
-    <configuration name="BytesConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DifferentRadixSummator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="rastishka.*" />
+          <option name="PATTERN" value="Lesson_3_Home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="rastishka.BytesConverter" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_3_Home_work.DifferentRadixSummator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -201,14 +276,14 @@
       <module name="Java_courses" />
       <envs />
     </configuration>
-    <configuration name="CelsiusToFahrenheitConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="rastishka.*" />
+          <option name="PATTERN" value="Lesson_3_Home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="rastishka.CelsiusToFahrenheitConverter" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_3_Home_work.FunctionCalculator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -220,14 +295,14 @@
       <module name="Java_courses" />
       <envs />
     </configuration>
-    <configuration name="DigitsPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NameSubstitutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="rastishka.*" />
+          <option name="PATTERN" value="Lesson_3_Home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="rastishka.DigitsPrinter" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_3_Home_work.NameSubstitutor" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -239,14 +314,14 @@
       <module name="Java_courses" />
       <envs />
     </configuration>
-    <configuration name="LikesStatistic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleAboutMeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="rastishka.*" />
+          <option name="PATTERN" value="Lesson_3_Home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="rastishka.LikesStatistic" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_3_Home_work.SimpleAboutMeApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -274,19 +349,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CelsiusToFahrenheitConverter" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LikesStatistic" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DigitsPrinter" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BytesConverter" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AverageCalculator" />
+      <item index="0" class="java.lang.String" itemvalue="Application.AverageCalculator" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SimpleAboutMeApp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DifferentRadixSummator" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NameSubstitutor" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FunctionCalculator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AverageCalculator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BytesConverter" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DigitsPrinter" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LikesStatistic" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CelsiusToFahrenheitConverter" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FunctionCalculator" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NameSubstitutor" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DifferentRadixSummator" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SimpleAboutMeApp" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AverageCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -308,13 +383,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -329,13 +405,17 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Java_courses" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -358,7 +438,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/LikesStatistic.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/LikesStatistic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="67" lean-forward="false" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
@@ -366,7 +446,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/CelsiusToFahrenheitConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/CelsiusToFahrenheitConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="61" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
@@ -374,7 +454,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/DigitsPrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/DigitsPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
@@ -382,7 +462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/BytesConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/BytesConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -398,7 +478,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/AverageCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/AverageCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -430,7 +510,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/CelsiusToFahrenheitConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/CelsiusToFahrenheitConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="61" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
@@ -438,7 +518,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/LikesStatistic.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/LikesStatistic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="67" lean-forward="false" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
@@ -446,7 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/DigitsPrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/DigitsPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
@@ -454,7 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/BytesConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/BytesConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -462,10 +542,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/AverageCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_2_Home_work/AverageCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3_Home_work/DifferentRadixSummator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3_Home_work/NameSubstitutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="90" lean-forward="false" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3_Home_work/SimpleAboutMeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3_Home_work/FunctionCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
