@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="193bc5b2-36aa-46cb-9cbd-d121479e65ee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="193bc5b2-36aa-46cb-9cbd-d121479e65ee" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -168,23 +166,6 @@
             <path>
               <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_2_Home_work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_3_Home_work" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
