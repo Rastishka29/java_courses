@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="193bc5b2-36aa-46cb-9cbd-d121479e65ee" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_2_Home_work/AverageCalculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_2_Home_work/BytesConverter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_2_Home_work/CelsiusToFahrenheitConverter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_2_Home_work/DigitsPrinter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_2_Home_work/LikesStatistic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_3_Home_work/DifferentRadixSummator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_3_Home_work/FunctionCalculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_3_Home_work/NameSubstitutor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/Lesson_3_Home_work/SimpleAboutMeApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/com/company/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_2_Home_work/AverageCalculator.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/AverageCalculator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_2_Home_work/BytesConverter.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/BytesConverter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_2_Home_work/CelsiusToFahrenheitConverter.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/CelsiusToFahrenheitConverter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_2_Home_work/DigitsPrinter.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/DigitsPrinter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_2_Home_work/LikesStatistic.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/LikesStatistic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_3_Home_work/DifferentRadixSummator.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/DifferentRadixSummator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_3_Home_work/FunctionCalculator.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/FunctionCalculator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_3_Home_work/NameSubstitutor.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/NameSubstitutor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Lesson_3_Home_work/SimpleAboutMeApp.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/SimpleAboutMeApp.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/com/rastishka/javastart/lesson_5_lection/Cakes1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/com/rastishka/javastart/lesson_5_lection/Cakes2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/com/rastishka/javastart/lesson_5_lection/Cakes3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/com/rastishka/javastart/lesson_5_lection/Cakes4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_courses/com/rastishka/javastart/lesson_5_lection/Cakes5.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes1.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes2.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes3.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes4.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes5.java" afterPath="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes5.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,101 +24,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MinMaxCalculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Conditions/MinMaxCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="34" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsAgeChecker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Conditions/IsAgeChecker.java">
+      <file leaf-file-name="DigitsPrinter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/DigitsPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AgeParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Conditions/AgeParser.java">
+      <file leaf-file-name="RadixPrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/RadixPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="147">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RangePrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/RangePrinter.java">
+      <file leaf-file-name="PrimesPrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/PrimesPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="9" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="210">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DigitsSumCalculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/DigitsSumCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RangeWithStepPrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/RangeWithStepPrinter.java">
+      <file leaf-file-name="RhombusPrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/RhombusPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DifferentRadixSummator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/DifferentRadixSummator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EvensRangePrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/EvensRangePrinter.java">
+      <file leaf-file-name="DigitsPrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/DigitsPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="294">
+              <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FactorialCalculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/FactorialCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FilledMatrixPrinter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/FilledMatrixPrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IdToToyNameConverter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Conditions/IdToToyNameConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ToyNameToIdConverter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Conditions/ToyNameToIdConverter.java">
+      <file leaf-file-name="LinePrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/LinePrinter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrianglePrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/TrianglePrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="65" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeenagersCounter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/TeenagersCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -154,18 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/rastishka/Main.java" />
-        <option value="$PROJECT_DIR$/src/rastishka/CelsiusToFahrenheitConverter.java" />
-        <option value="$PROJECT_DIR$/src/rastishka/LikesStatistic.java" />
-        <option value="$PROJECT_DIR$/src/rastishka/AverageCalculator.java" />
-        <option value="$PROJECT_DIR$/src/Lesson_3_Home_work/SimpleAboutMeApp.java" />
-        <option value="$PROJECT_DIR$/src/Lesson_3_Home_work/DifferentRadixSummator.java" />
-        <option value="$PROJECT_DIR$/src/Lesson_3_Home_work/NameSubstitutor.java" />
-        <option value="$PROJECT_DIR$/src/Lesson_3_Home_work/FunctionCalculator.java" />
-        <option value="D:/Yulia/04_EDUCATION/JAVA_Courses/SimpleAboutMeApp.class" />
-        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/Lesson_3_Home_work/SimpleAboutMeApp.java" />
-        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/DifferentRadixSummator.java" />
-        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/SimpleAboutMeApp.java" />
         <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/FunctionCalculator.java" />
         <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/NameSubstitutor.java" />
         <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4_lection/Condition1.java" />
@@ -204,6 +188,19 @@
         <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/EvensRangePrinter.java" />
         <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/FactorialCalculator.java" />
         <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/FilledMatrixPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/lection/Cakes5.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/HW_Level_2_Conditions_Loops/DigitsPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/Cakes5.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes5.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/TrianglePrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/LinePrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/TeenagersCounter.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/digit.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/DigitsPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/RadixPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/PrimesPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/DigitsSumCalculator.java" />
+        <option value="$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/RhombusPrinter.java" />
       </list>
     </option>
   </component>
@@ -232,8 +229,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,18 +252,43 @@
               <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javastart" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_4" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_3_home_work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
+              <item name="HW_Level_2_Conditions_Loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_courses" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="lection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="extract.method.default.visibility" value="public" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -287,15 +307,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FilledMatrixPrinter">
-    <configuration name="EvensRangePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RhombusPrinter">
+    <configuration name="DigitsPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.*" />
+          <option name="PATTERN" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.EvensRangePrinter" />
+      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.DigitsPrinter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -307,14 +327,14 @@
       <module name="Java_courses" />
       <envs />
     </configuration>
-    <configuration name="FactorialCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DigitsSumCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.*" />
+          <option name="PATTERN" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.FactorialCalculator" />
+      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.DigitsSumCalculator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -326,14 +346,14 @@
       <module name="Java_courses" />
       <envs />
     </configuration>
-    <configuration name="FilledMatrixPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimesPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.*" />
+          <option name="PATTERN" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.FilledMatrixPrinter" />
+      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.PrimesPrinter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -345,14 +365,14 @@
       <module name="Java_courses" />
       <envs />
     </configuration>
-    <configuration name="RangePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RadixPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.*" />
+          <option name="PATTERN" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.RangePrinter" />
+      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.RadixPrinter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -364,14 +384,14 @@
       <module name="Java_courses" />
       <envs />
     </configuration>
-    <configuration name="RangeWithStepPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RhombusPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.*" />
+          <option name="PATTERN" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_4.HW_Level_1_Loops.RangeWithStepPrinter" />
+      <option name="MAIN_CLASS_NAME" value="com.rastishka.javastart.lesson_5.HW_Level_2_Conditions_Loops.RhombusPrinter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -399,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RangePrinter" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RangeWithStepPrinter" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EvensRangePrinter" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FactorialCalculator" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FilledMatrixPrinter" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DigitsPrinter" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RadixPrinter" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PrimesPrinter" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DigitsSumCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RhombusPrinter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FilledMatrixPrinter" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FactorialCalculator" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EvensRangePrinter" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RangeWithStepPrinter" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RangePrinter" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RhombusPrinter" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DigitsSumCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PrimesPrinter" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RadixPrinter" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DigitsPrinter" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +450,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -440,25 +459,53 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38631347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30132452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38631347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -469,49 +516,12 @@
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/rastishka/PersonInfo.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/LikesStatistic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="67" lean-forward="false" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/CelsiusToFahrenheitConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="61" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/DigitsPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/BytesConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/AverageCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rastishka/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/rastishka/PersonInfo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/AverageCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -531,13 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/DigitsPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -569,41 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5_lection/Cakes5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -691,19 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/DifferentRadixSummator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="56" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/SimpleAboutMeApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="34" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -743,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,7 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="9" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,30 +719,161 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/RangeWithStepPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/FactorialCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="336">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_4/HW_Level_1_Loops/FilledMatrixPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="420">
           <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/lection/Cakes1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="43" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_2_home_work/DigitsPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/digit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/TeenagersCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_3_home_work/DifferentRadixSummator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/LinePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_7/lection/TrianglePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="65" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/DigitsSumCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/PrimesPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/RadixPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/RhombusPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rastishka/javastart/lesson_5/HW_Level_2_Conditions_Loops/DigitsPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding />
         </state>
       </provider>

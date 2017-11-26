@@ -1,4 +1,4 @@
-package com.rastishka.javastart.lesson_5_lection;
+package com.rastishka.javastart.lesson_5.lection;
 import	java.util.Scanner;
 
 public class Cakes1 {
